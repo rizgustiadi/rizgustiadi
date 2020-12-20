@@ -21,3 +21,4 @@ jalan("Halo Jomblo.....\n".center(1))
 jalan("Selamat Datang Di profile Orng nob\n".center(1))
 jalan("Udh Sana...........Tod\n".center(1))
 os.system("clear")
+```
