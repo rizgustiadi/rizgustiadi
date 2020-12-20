@@ -1,16 +1,23 @@
-### Hi there 👋
+### HALO JOMBLO
+### FIX YANG LIAT INI JOMBLO!!
 
-<!--
-**rizgustiadi/rizgustiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/SyntaxEr00r"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rizgustiadi)
 
-Here are some ideas to get you started:
+![logo](https://telegra.ph/file/2ccce75d666a525099009.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+
+import time,sys,os
+from time import sleep
+
+
+def jalan(kata):
+ for e in kata:
+     sys.stdout.write(e)
+     sys.stdout.flush()
+     time.sleep(0.01)
+jalan("Halo Jomblo.....\n".center(1))
+jalan("Selamat Datang Di profile Orng nob\n".center(1))
+jalan("Udh Sana...........Tod\n".center(1))
+os.system("clear")
