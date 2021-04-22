@@ -7,3 +7,5 @@
 ![logo](https://telegra.ph/file/2ccce75d666a525099009.jpg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizgustiadi&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
+
+![GitHub Langue](https://github-readme-stats.vercel.app/api/top-langs/?username=rizgustiadi&theme=radical&layout=compact)
