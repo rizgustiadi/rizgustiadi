@@ -6,4 +6,4 @@
 
 ![logo](https://telegra.ph/file/2ccce75d666a525099009.jpg)
 
-[![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=rizgustiadi)](https://github.com/rizgustiadi/rizgustiadi/edit/bacot/README.md)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizgustiadi&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
