@@ -1,7 +1,7 @@
 ### Hi I'M Zal
-### FIX YANG LIAT INI JOMBLO!!
+### gua bego!!
 
-<a href="https://t.me/SyNtAxEr0r3"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
+<a href="https://t.me/watefukh"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rizgustiadi)
 
 ![logo](https://telegra.ph/file/2ccce75d666a525099009.jpg)
