@@ -6,6 +6,14 @@
 
 ![logo](https://telegra.ph/file/d516f3c923f9ffa019f4e.jpg)
 
+<p align="center">
+<a href="https://github.com/rizgustiadi">
+        <img src="https://telegra.ph/file/d516f3c923f9ffa019f4e.jpg" alt="Specta"
+            width="312"
+            height="312">
+    </a>
+</p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizgustiadi&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
 
 ![GitHub Langue](https://github-readme-stats.vercel.app/api/top-langs/?username=rizgustiadi&theme=radical&layout=compact)
